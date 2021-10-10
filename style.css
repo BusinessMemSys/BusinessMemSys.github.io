@@ -66,6 +66,15 @@
     object-fit: cover;
     opacity: 0.8;
 }
+.video-background img{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8;
+}
 /*для meditation*/
 .slider{
     width: 100%;
@@ -126,7 +135,6 @@ input[name="r"]{
 #r3:checked ~ .s1{
     margin-left: -50%;
 }
-/*для meditation*/
 .radio_cont{
     position: absolute;
     left: 280px;
