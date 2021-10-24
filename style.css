@@ -41,7 +41,10 @@
     text-transform: uppercase;
     cursor: pointer;
 }
-
+.logo-gif {
+    width: 500px;
+    height: 500px;
+}
 .toggle{
     position: relative;
     width: 60px;
