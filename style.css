@@ -42,8 +42,8 @@
     cursor: pointer;
 }
 .logo-gif {
-    width: 500px;
-    height: 500px;
+    top: 200px;
+	left: 200px;
 }
 .toggle{
     position: relative;
@@ -149,10 +149,10 @@ input[name="r"]{
     position: relative;
     z-index: 10;
 }
-.text p{
+.text p {
 	width: 500px;
 	height: 500px;
-	left: 400px;
+	left: 50px;
 }
 .text h2{
     font-size: 5em;
