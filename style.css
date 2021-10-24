@@ -41,10 +41,6 @@
     text-transform: uppercase;
     cursor: pointer;
 }
-.logo-gif {
-    top: 200px;
-	left: 200px;
-}
 .toggle{
     position: relative;
     width: 60px;
@@ -149,11 +145,7 @@ input[name="r"]{
     position: relative;
     z-index: 10;
 }
-.text p {
-	width: 500px;
-	height: 500px;
-	left: 50px;
-}
+
 .text h2{
     font-size: 5em;
     font-weight: 800;
