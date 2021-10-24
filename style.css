@@ -150,9 +150,9 @@ input[name="r"]{
     z-index: 10;
 }
 .text p {
-	width: 550px;
+	width: 500px;
 	height: 500px;
-	left: 60px;
+	left: 100px;
 }
 .text h2{
     font-size: 5em;
